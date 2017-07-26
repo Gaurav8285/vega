@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Example Gallery
-permalink: /examples/index.html
+permalink: /gaurav/index.html
 menu: examples
 ---
 
